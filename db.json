@@ -1,0 +1,58 @@
+[
+    {
+        "numero": "8000567235",
+        "fecha": "19/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "en registro",
+        "saldo": 1500
+    },
+    {
+        "numero": "8000567235",
+        "fecha": "29/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "aprobado oper.",
+        "saldo": 200
+    },
+    {
+        "numero": "8000567235",
+        "fecha": "29/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "aprobado oper.",
+        "saldo": 200
+    },
+    {
+        "numero": "8000567235",
+        "fecha": "29/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "sin registro",
+        "saldo": 200
+    },
+    {
+        "numero": "8000567235",
+        "fecha": "29/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "en registro",
+        "saldo": 200
+    },
+    {
+        "numero": "8000567235",
+        "fecha": "29/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "aprobado adm.",
+        "saldo": 200
+    },
+    {
+        "numero": "8000567235",
+        "fecha": "29/02/2019",
+        "claseDT": "ZRAC",
+        "tipoChofer": "T1",
+        "estado": "Transferido SAP",
+        "saldo": 200
+    }
+]
