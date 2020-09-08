@@ -1,4 +1,30 @@
 {
+  "listadoDT": [
+    {
+      "numero": "8000563456",
+      "fecha": "20/03/2020",
+      "claseDT": "ZRAC",
+      "tipoChofer": "T1",
+      "estado": "sin registro",
+      "saldo": 1500
+    },
+    {
+      "numero": "8000567456",
+      "fecha": "19/02/2020",
+      "claseDT": "ZRAC",
+      "tipoChofer": "T1",
+      "estado": "en registro",
+      "saldo": 1500
+    },
+    {
+      "numero": "8000567123",
+      "fecha": "19/02/2020",
+      "claseDT": "ZRAC",
+      "tipoChofer": "T1",
+      "estado": "en registro",
+      "saldo": 1500
+    }
+  ],
   "detalleDT": {
       "numero": "8000563456",
       "fecha": "20/03/2020",
