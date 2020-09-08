@@ -6,7 +6,6 @@
       "claseDT": "ZRAC",
       "tipoChofer": "T1",
       "estado": "sin registro",
-      "saldo": 1500
     },
     {
       "numero": "8000567456",
@@ -14,7 +13,6 @@
       "claseDT": "ZRAC",
       "tipoChofer": "T1",
       "estado": "en registro",
-      "saldo": 1500
     },
     {
       "numero": "8000567123",
@@ -22,7 +20,6 @@
       "claseDT": "ZRAC",
       "tipoChofer": "T1",
       "estado": "en registro",
-      "saldo": 1500
     }
   ],
   "detalleDT": {
