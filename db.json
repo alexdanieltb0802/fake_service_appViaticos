@@ -90,19 +90,24 @@
       "estado": "transferido SAP",
       "saldo": 200
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  ],  
+  "DTadelantos":{
+      "totalAnticipos": 800,
+      "anticipos": [
+        {
+          "codigoAnticipo": "#8000025539",
+          "monto": 300
+        },
+        {
+          "codigoAnticipo": "#8000025540",
+          "monto": 200
+        },
+        {
+          "codigoAnticipo": "#8000025541",
+          "monto": 300
+        }    
+      ]
+  }
   "profile": {
     "name": "typicode"
   }
