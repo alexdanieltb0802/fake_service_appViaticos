@@ -108,7 +108,24 @@
         }    
       ]
   },
-  "profile": {
-    "name": "typicode"
+  "DTpagos": {
+    "totalGastos": 950.8,
+    "gastos": [
+      {
+        "tipoGastoId": 1,
+        "monto": 25.5,
+        "descripcion": "alimentación"
+      },
+      {
+        "tipoGastoId": 2,
+        "monto": 55.8,
+        "descripcion": "alojamiento"
+      },
+      {
+        "tipoGastoId": 3,
+        "monto": 120.6,
+        "descripcion": "combustible"
+      }
+    ]
   }
 }
