@@ -125,6 +125,16 @@
         "tipoGastoId": 3,
         "monto": 120.6,
         "descripcion": "combustible"
+      },
+      {
+        "tipoGastoId": 4,
+        "monto": 115.8,
+        "descripcion": "peaje"
+      },
+      {
+        "tipoGastoId": 5,
+        "monto": 25.8,
+        "descripcion": "descarguio"
       }
     ]
   }
